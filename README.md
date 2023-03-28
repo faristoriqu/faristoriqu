@@ -1,6 +1,6 @@
 
 
-I'm FARIS, Tech Enthusiast from <img src="https://www.flaticon.com/svg/static/icons/svg/323/323372.svg](https://cdn-icons-png.flaticon.com/512/168/168029.png" width="13"/> <b>Indonesia</b>. 
+I'm FARIS, Tech Enthusiast from <img src="https://cdn-icons-png.flaticon.com/512/168/168029.png" width="13"/> <b>Indonesia</b>. 
 
 #### Have experience code with:
 <p>
